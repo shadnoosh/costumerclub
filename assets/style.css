@@ -1,0 +1,28 @@
+/* style.css */
+body {
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.stButton > button {
+    background-color: #9e4c6a;
+    color: white;
+    border-radius: 8px;
+    padding: 0.5em 1.5em;
+    font-size: 2em;
+    border: none;
+    transition: background 0.3s;
+}
+
+.stButton > button:hover {
+    background-color: #472730;
+}
+
+.link-button > div > button {
+        background: none;
+        color: blue;
+        text-decoration: underline;
+        border: none;
+        padding: 0;
+        font-size: 16px;
+        cursor: pointer;
+    }
