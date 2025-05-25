@@ -1,0 +1,8 @@
+streamlit
+pandas
+os
+numpy
+datetime
+hashlib
+plotly
+
